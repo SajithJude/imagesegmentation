@@ -2,7 +2,7 @@ pyyaml
 torch
 torchvision
 cPython
--f https://dl.fbaipublicfiles.com/detectron2/wheels/cu111/torch1.8/index.html 
+-f 'git+https://github.com/facebookresearch/detectron2.git'
 detectron2
 streamlit
 Pillow==9.3.0
