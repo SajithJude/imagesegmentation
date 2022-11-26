@@ -1,0 +1,6 @@
+streamlit
+detectron2
+Pillow==9.3.0
+opencv-python
+numpy
+tqdm
