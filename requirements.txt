@@ -1,6 +1,6 @@
 torch
 torchvision==0.9.0
 pyyaml==5.1
--f git+https://github.com/facebookresearch/detectron2.git #detectron2
+git+https://github.com/facebookresearch/detectron2.git #detectron2
 opencv-contrib-python-headless
 streamlit
