@@ -1,6 +1,7 @@
 pyyaml
 torch
-git+https://github.com/facebookresearch/detectron2.git@5aeb252b194b93dc2879b4ac34bc51a31b5aee13
+-f https://dl.fbaipublicfiles.com/detectron2/wheels/cu111/torch1.8/index.html 
+detectron2
 streamlit
 Pillow==9.3.0
 opencv-python
