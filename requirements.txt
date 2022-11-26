@@ -1,6 +1,7 @@
 pyyaml
 torch
 torchvision
+cPython
 -f https://dl.fbaipublicfiles.com/detectron2/wheels/cu111/torch1.8/index.html 
 detectron2
 streamlit
